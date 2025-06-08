@@ -10,6 +10,8 @@
 - 你只需要将生成好的图片截图即可
 - 既可以分享到朋友圈，也可以打印出来贴到孩子的成长手册上
 
+![项目截图1](./public/product_imgs/step1.png)
+![项目截图2](./public/product_imgs/step2.png)
 ---
 
 本项目是一个基于 React + Ant Design + Google Gemini API 的 AI 图文纪念品创作工具。用户可上传照片，AI 自动生成故事文案，并可一键导出精美图片。
